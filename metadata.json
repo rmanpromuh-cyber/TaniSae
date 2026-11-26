@@ -1,0 +1,10 @@
+{
+  "name": "TaniSAE by DistanKP Batu",
+  "description": "Platform Pertanian Terpadu by Distan KP Batu",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
